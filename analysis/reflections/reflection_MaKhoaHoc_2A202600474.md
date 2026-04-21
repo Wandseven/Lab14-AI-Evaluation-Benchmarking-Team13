@@ -1,7 +1,7 @@
 # Reflection Cá Nhân - Vai trò Runner/Regression/Release Gate Engineer
 
 ## 1) Phạm vi công việc đã đảm nhận
-Trong bài lab này, tôi đảm nhận vai trò **Người 4 - Runner/Regression/Release Gate Engineer** với các nhiệm vụ chính:
+Trong bài lab này, em đảm nhận vai trò **Runner/Regression/Release Gate Engineer** với các nhiệm vụ chính:
 - Xây dựng async runner để chạy benchmark theo lô, theo dõi độ trễ và kết quả từng case.
 - Hoàn thiện pipeline benchmark cho 2 phiên bản Agent (V1 và V2) và tổng hợp kết quả.
 - Triển khai regression testing (V1 vs V2) và release gate tự động dựa trên ngưỡng chất lượng/chi phí.
